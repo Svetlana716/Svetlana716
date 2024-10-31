@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Svetlana Sunagatullina
+- 👋 Hi, I’m Sveta
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning JS, TS, React, Redux, Node JS, Express, Next, Mongodb etc.
 - 📫 How to reach me: Telegram @Ssveta_116
